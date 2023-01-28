@@ -1,2 +1,2 @@
-.env
-node_modules
+client/.env
+serever/node_modules
